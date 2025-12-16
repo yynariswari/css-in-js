@@ -9,5 +9,5 @@ export default defineConfig({
       include: ["src/**/*.jsx"], // supaya cuma JSX diproses
     }),
   ],
-  base: "./",
+  base: "/css-in-js/",
 });
